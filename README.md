@@ -1,6 +1,8 @@
 
 
-Hi there! 👋 I'm **Lakshmi Nadh Makkena**, currently pursuing a Master's degree in Computer Science. I love exploring new problems and diving into new technologies. My expertise spans from full-stack development, IoT, and machine learning to network security. I am always eager to learn and grow through hands-on projects.
+##Hi there! 👋 
+
+I'm **Lakshmi Nadh Makkena**, currently pursuing a Master's degree in Computer Science. I love exploring new problems and diving into new technologies. My expertise spans from full-stack development, IoT, and machine learning to network security. I am always eager to learn and grow through hands-on projects.
 
 
 ### Skills
